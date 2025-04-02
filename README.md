@@ -53,7 +53,7 @@ The dataset is split into *80% training* and *20% testing. The **Logistic Regres
 
 This project provides a *robust sentiment analysis system* for restaurant reviews, enabling better decision-making based on customer opinions.
 
-## output of the Task
+## Output of the Task
 
 ## classification Metrics
 
