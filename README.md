@@ -29,7 +29,7 @@ The dataset consists of *restaurant reviews* labeled as positive or negative. Th
 2. *Removing Punctuation and Numbers:* Eliminates unnecessary characters to clean data.  
 3. *Tokenization:* Splits sentences into individual words using *NLTK*.  
 4. *Stopword Removal:* Eliminates common words (e.g., “the,” “is”) that do not contribute to sentiment.  
-5. *TF-IDF Vectorization:* Converts text into a *numerical matrix of 5,000 features*, capturing word importance based on frequency.  
+5. *TF-IDF Vectorization:* Converts text into a *numerical matrix of 2,000 features*, capturing word importance based on frequency.  
 
 ## Model Training and Evaluation  
 The dataset is split into *80% training* and *20% testing. The **Logistic Regression* model is trained on the TF-IDF transformed data. *Hyperparameters* are tuned for better accuracy.  
