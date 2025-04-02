@@ -64,3 +64,5 @@ This project provides a *robust sentiment analysis system* for restaurant review
 ![Image](https://github.com/user-attachments/assets/1adbedae-61b7-4ea8-b573-9bdd59e51a11)
 
 ## Predicted Outputs
+
+![Image](https://github.com/user-attachments/assets/577c3ecc-c8b1-4f16-b3f5-a9f720dbd9f0)
