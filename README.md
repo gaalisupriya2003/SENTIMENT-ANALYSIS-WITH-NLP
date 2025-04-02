@@ -1,7 +1,19 @@
 # SENTIMENT-ANALYSIS-WITH-NLP
+
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: GALI SUPRIYA
+
+**INTERN ID**:CT12WJVC
+
+**DOMAIN**: MACHINE LEARNING
+
+**BATCH DURATION**:JANUARY 5TH TO APRIL 5TH,2025
+
+**MENTOR NAME**:NEELA SANTHOSH 
+
 # Sentiment Analysis on Restaurant Reviews Using TF-IDF and Logistic Regression
 
-## Introduction  
 Sentiment analysis is a *natural language processing (NLP) task* that classifies text as positive, negative, or neutral. This project performs *sentiment analysis* on a *restaurant reviews dataset* to determine customer sentiments using *TF-IDF vectorization* and *Logistic Regression*. It helps restaurant owners understand customer opinions and improve services based on feedback.  
 
 ## Tools and Technologies Used  
