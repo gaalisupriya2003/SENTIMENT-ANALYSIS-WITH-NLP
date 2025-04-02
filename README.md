@@ -52,3 +52,13 @@ The dataset is split into *80% training* and *20% testing. The **Logistic Regres
 5. *Market Research:* Helps businesses understand *customer preferences* and adjust services accordingly.  
 
 This project provides a *robust sentiment analysis system* for restaurant reviews, enabling better decision-making based on customer opinions.
+
+## output of the Task
+
+## classification Metrics
+
+![Image](https://github.com/user-attachments/assets/4909250e-150c-4c97-ab1b-3c01fd7db59f)
+
+## Confusion Matrix
+
+![Image](https://github.com/user-attachments/assets/1adbedae-61b7-4ea8-b573-9bdd59e51a11)
